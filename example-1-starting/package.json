@@ -1,0 +1,16 @@
+{
+  "name": "gulp-talk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonginn",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  }
+}

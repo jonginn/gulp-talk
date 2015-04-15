@@ -1,0 +1,27 @@
+.item-1 {
+  background: #000;
+
+  .sub-item {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .item-1 {
+    background: #fff;
+  }
+}
+
+.item-2 {
+  background: #000;
+}
+
+@media screen and (max-width: 480px) {
+  .item-2 {
+    background: #fff;
+  }
+
+  .item-3 {
+    background: #bada55;
+  }
+}
